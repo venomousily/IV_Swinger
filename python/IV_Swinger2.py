@@ -98,7 +98,7 @@ from IV_Swinger_PV_model import scipy_version
 #################
 #   Constants   #
 #################
-APP_NAME = "IV_Swinger2"
+APP_NAME = "Vinamra"
 RC_SUCCESS = 0
 RC_FAILURE = -1
 RC_BAUD_MISMATCH = -2
